@@ -1,0 +1,31 @@
+﻿  App.cpp
+C:\Users\Albert Gil\Desktop\MIRI\CA\ParticlesSimulation\ParticlesSimulation\Src\App.cpp(236,12): warning C4244:  'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Albert Gil\Desktop\MIRI\CA\ParticlesSimulation\ParticlesSimulation\Src\App.cpp(262,29): warning C4018:  '<': signed/unsigned mismatch
+C:\Users\Albert Gil\Desktop\MIRI\CA\ParticlesSimulation\ParticlesSimulation\Src\App.cpp(294,22): warning C4244:  'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Albert Gil\Desktop\MIRI\CA\ParticlesSimulation\ParticlesSimulation\Src\App.cpp(312,30): warning C4018:  '<': signed/unsigned mismatch
+C:\Users\Albert Gil\Desktop\MIRI\CA\ParticlesSimulation\ParticlesSimulation\Src\App.cpp(375,31): warning C4018:  '<': signed/unsigned mismatch
+C:\Users\Albert Gil\Desktop\MIRI\CA\ParticlesSimulation\ParticlesSimulation\Src\App.cpp(440,52): warning C4244:  'argument': conversion from 'double' to 'const float', possible loss of data
+C:\Users\Albert Gil\Desktop\MIRI\CA\ParticlesSimulation\ParticlesSimulation\Src\App.cpp(440,22): warning C4244:  'argument': conversion from 'double' to 'const float', possible loss of data
+C:\Users\Albert Gil\Desktop\MIRI\CA\ParticlesSimulation\ParticlesSimulation\Src\App.cpp(444,50): warning C4244:  'argument': conversion from 'double' to 'const float', possible loss of data
+C:\Users\Albert Gil\Desktop\MIRI\CA\ParticlesSimulation\ParticlesSimulation\Src\App.cpp(444,22): warning C4244:  'argument': conversion from 'double' to 'const float', possible loss of data
+C:\Users\Albert Gil\Desktop\MIRI\CA\ParticlesSimulation\ParticlesSimulation\Src\App.cpp(447,16): warning C4244:  '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Albert Gil\Desktop\MIRI\CA\ParticlesSimulation\ParticlesSimulation\Src\App.cpp(448,15): warning C4244:  '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Albert Gil\Desktop\MIRI\CA\ParticlesSimulation\ParticlesSimulation\Src\App.cpp(449,86): warning C4244:  'argument': conversion from 'double' to 'const float', possible loss of data
+C:\Users\Albert Gil\Desktop\MIRI\CA\ParticlesSimulation\ParticlesSimulation\Src\App.cpp(449,54): warning C4244:  'argument': conversion from 'double' to 'const float', possible loss of data
+C:\Users\Albert Gil\Desktop\MIRI\CA\ParticlesSimulation\ParticlesSimulation\Src\App.cpp(449,36): warning C4244:  'argument': conversion from 'double' to 'const float', possible loss of data
+C:\Users\Albert Gil\Desktop\MIRI\CA\ParticlesSimulation\ParticlesSimulation\Src\App.cpp(472,29): warning C4018:  '<': signed/unsigned mismatch
+C:\Users\Albert Gil\Desktop\MIRI\CA\ParticlesSimulation\ParticlesSimulation\Src\App.cpp(607,12): warning C4244:  '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Albert Gil\Desktop\MIRI\CA\ParticlesSimulation\ParticlesSimulation\Src\App.cpp(608,12): warning C4244:  '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Albert Gil\Desktop\MIRI\CA\ParticlesSimulation\ParticlesSimulation\Src\App.cpp(612,17): warning C4244:  'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Albert Gil\Desktop\MIRI\CA\ParticlesSimulation\ParticlesSimulation\Src\App.cpp(613,17): warning C4244:  'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Albert Gil\Desktop\MIRI\CA\ParticlesSimulation\ParticlesSimulation\Src\App.cpp(615,11): warning C4244:  '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Albert Gil\Desktop\MIRI\CA\ParticlesSimulation\ParticlesSimulation\Src\App.cpp(616,11): warning C4244:  '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Albert Gil\Desktop\MIRI\CA\ParticlesSimulation\ParticlesSimulation\Src\App.cpp(625,28): warning C4244:  'argument': conversion from 'double' to 'float', possible loss of data
+LINK : warning LNK4098: defaultlib 'LIBCMT' conflicts with use of other libs; use /NODEFAULTLIB:library
+  Generating code
+  2 of 2199 functions (<0.1%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    16 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+glew32s.lib(glew.obj) : warning LNK4099: PDB 'vc120.pdb' was not found with 'glew32s.lib(glew.obj)' or at 'C:\Users\Albert Gil\Desktop\MIRI\CA\ParticlesSimulation\Release\vc120.pdb'; linking object as if no debug info
+  ParticlesSimulation.vcxproj -> C:\Users\Albert Gil\Desktop\MIRI\CA\ParticlesSimulation\Release\ParticlesSimulation.exe

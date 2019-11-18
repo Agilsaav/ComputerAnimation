@@ -1,0 +1,20 @@
+﻿  App.cpp
+C:\Users\Albert Gil\Desktop\MIRI\CA\ParticlesSimulation\ParticlesSimulation\Src\App.cpp(317,12): warning C4244:  'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Albert Gil\Desktop\MIRI\CA\ParticlesSimulation\ParticlesSimulation\Src\App.cpp(351,29): warning C4018:  '<': signed/unsigned mismatch
+C:\Users\Albert Gil\Desktop\MIRI\CA\ParticlesSimulation\ParticlesSimulation\Src\App.cpp(386,22): warning C4244:  'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Albert Gil\Desktop\MIRI\CA\ParticlesSimulation\ParticlesSimulation\Src\App.cpp(404,30): warning C4018:  '<': signed/unsigned mismatch
+C:\Users\Albert Gil\Desktop\MIRI\CA\ParticlesSimulation\ParticlesSimulation\Src\App.cpp(498,31): warning C4018:  '<': signed/unsigned mismatch
+C:\Users\Albert Gil\Desktop\MIRI\CA\ParticlesSimulation\ParticlesSimulation\Src\App.cpp(594,16): warning C4244:  '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Albert Gil\Desktop\MIRI\CA\ParticlesSimulation\ParticlesSimulation\Src\App.cpp(595,15): warning C4244:  '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Albert Gil\Desktop\MIRI\CA\ParticlesSimulation\ParticlesSimulation\Src\App.cpp(596,86): warning C4244:  'argument': conversion from 'double' to 'const float', possible loss of data
+C:\Users\Albert Gil\Desktop\MIRI\CA\ParticlesSimulation\ParticlesSimulation\Src\App.cpp(596,54): warning C4244:  'argument': conversion from 'double' to 'const float', possible loss of data
+C:\Users\Albert Gil\Desktop\MIRI\CA\ParticlesSimulation\ParticlesSimulation\Src\App.cpp(596,36): warning C4244:  'argument': conversion from 'double' to 'const float', possible loss of data
+C:\Users\Albert Gil\Desktop\MIRI\CA\ParticlesSimulation\ParticlesSimulation\Src\App.cpp(622,29): warning C4018:  '<': signed/unsigned mismatch
+C:\Users\Albert Gil\Desktop\MIRI\CA\ParticlesSimulation\ParticlesSimulation\Src\App.cpp(781,12): warning C4244:  '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Albert Gil\Desktop\MIRI\CA\ParticlesSimulation\ParticlesSimulation\Src\App.cpp(782,12): warning C4244:  '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Albert Gil\Desktop\MIRI\CA\ParticlesSimulation\ParticlesSimulation\Src\App.cpp(786,17): warning C4244:  'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Albert Gil\Desktop\MIRI\CA\ParticlesSimulation\ParticlesSimulation\Src\App.cpp(787,17): warning C4244:  'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Albert Gil\Desktop\MIRI\CA\ParticlesSimulation\ParticlesSimulation\Src\App.cpp(789,11): warning C4244:  '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Albert Gil\Desktop\MIRI\CA\ParticlesSimulation\ParticlesSimulation\Src\App.cpp(790,11): warning C4244:  '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Albert Gil\Desktop\MIRI\CA\ParticlesSimulation\ParticlesSimulation\Src\App.cpp(799,28): warning C4244:  'argument': conversion from 'double' to 'float', possible loss of data
+  ParticlesSimulation.vcxproj -> C:\Users\Albert Gil\Desktop\MIRI\CA\ParticlesSimulation\Debug\ParticlesSimulation.exe

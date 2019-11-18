@@ -1,0 +1,42 @@
+﻿  App.cpp
+C:\Users\Albert Gil\Desktop\MIRI\CA\SpringSystemSimulation\SpringSystemSimulation\Src\App.cpp(345,12): warning C4244:  'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Albert Gil\Desktop\MIRI\CA\SpringSystemSimulation\SpringSystemSimulation\Src\App.cpp(377,29): warning C4018:  '<': signed/unsigned mismatch
+C:\Users\Albert Gil\Desktop\MIRI\CA\SpringSystemSimulation\SpringSystemSimulation\Src\App.cpp(397,29): warning C4018:  '<': signed/unsigned mismatch
+C:\Users\Albert Gil\Desktop\MIRI\CA\SpringSystemSimulation\SpringSystemSimulation\Src\App.cpp(426,22): warning C4244:  'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Albert Gil\Desktop\MIRI\CA\SpringSystemSimulation\SpringSystemSimulation\Src\App.cpp(447,31): warning C4018:  '<': signed/unsigned mismatch
+C:\Users\Albert Gil\Desktop\MIRI\CA\SpringSystemSimulation\SpringSystemSimulation\Src\App.cpp(473,31): warning C4018:  '<': signed/unsigned mismatch
+C:\Users\Albert Gil\Desktop\MIRI\CA\SpringSystemSimulation\SpringSystemSimulation\Src\App.cpp(552,32): warning C4018:  '<': signed/unsigned mismatch
+C:\Users\Albert Gil\Desktop\MIRI\CA\SpringSystemSimulation\SpringSystemSimulation\Src\App.cpp(569,32): warning C4018:  '<': signed/unsigned mismatch
+C:\Users\Albert Gil\Desktop\MIRI\CA\SpringSystemSimulation\SpringSystemSimulation\Src\App.cpp(571,12): warning C4018:  '<': signed/unsigned mismatch
+C:\Users\Albert Gil\Desktop\MIRI\CA\SpringSystemSimulation\SpringSystemSimulation\Src\App.cpp(578,32): warning C4018:  '<': signed/unsigned mismatch
+C:\Users\Albert Gil\Desktop\MIRI\CA\SpringSystemSimulation\SpringSystemSimulation\Src\App.cpp(596,32): warning C4018:  '<': signed/unsigned mismatch
+C:\Users\Albert Gil\Desktop\MIRI\CA\SpringSystemSimulation\SpringSystemSimulation\Src\App.cpp(598,33): warning C4018:  '<': signed/unsigned mismatch
+C:\Users\Albert Gil\Desktop\MIRI\CA\SpringSystemSimulation\SpringSystemSimulation\Src\App.cpp(605,13): warning C4018:  '<': signed/unsigned mismatch
+C:\Users\Albert Gil\Desktop\MIRI\CA\SpringSystemSimulation\SpringSystemSimulation\Src\App.cpp(606,13): warning C4018:  '<': signed/unsigned mismatch
+C:\Users\Albert Gil\Desktop\MIRI\CA\SpringSystemSimulation\SpringSystemSimulation\Src\App.cpp(607,13): warning C4018:  '<': signed/unsigned mismatch
+C:\Users\Albert Gil\Desktop\MIRI\CA\SpringSystemSimulation\SpringSystemSimulation\Src\App.cpp(607,29): warning C4018:  '<': signed/unsigned mismatch
+C:\Users\Albert Gil\Desktop\MIRI\CA\SpringSystemSimulation\SpringSystemSimulation\Src\App.cpp(717,29): warning C4018:  '<': signed/unsigned mismatch
+C:\Users\Albert Gil\Desktop\MIRI\CA\SpringSystemSimulation\SpringSystemSimulation\Src\App.cpp(736,30): warning C4018:  '<': signed/unsigned mismatch
+C:\Users\Albert Gil\Desktop\MIRI\CA\SpringSystemSimulation\SpringSystemSimulation\Src\App.cpp(738,31): warning C4018:  '<': signed/unsigned mismatch
+C:\Users\Albert Gil\Desktop\MIRI\CA\SpringSystemSimulation\SpringSystemSimulation\Src\App.cpp(747,30): warning C4018:  '<': signed/unsigned mismatch
+C:\Users\Albert Gil\Desktop\MIRI\CA\SpringSystemSimulation\SpringSystemSimulation\Src\App.cpp(749,31): warning C4018:  '<': signed/unsigned mismatch
+C:\Users\Albert Gil\Desktop\MIRI\CA\SpringSystemSimulation\SpringSystemSimulation\Src\App.cpp(919,29): warning C4018:  '<': signed/unsigned mismatch
+C:\Users\Albert Gil\Desktop\MIRI\CA\SpringSystemSimulation\SpringSystemSimulation\Src\App.cpp(921,30): warning C4018:  '<': signed/unsigned mismatch
+C:\Users\Albert Gil\Desktop\MIRI\CA\SpringSystemSimulation\SpringSystemSimulation\Src\App.cpp(941,10): warning C4018:  '<': signed/unsigned mismatch
+C:\Users\Albert Gil\Desktop\MIRI\CA\SpringSystemSimulation\SpringSystemSimulation\Src\App.cpp(947,10): warning C4018:  '<': signed/unsigned mismatch
+C:\Users\Albert Gil\Desktop\MIRI\CA\SpringSystemSimulation\SpringSystemSimulation\Src\App.cpp(954,9): warning C4018:  '<': signed/unsigned mismatch
+C:\Users\Albert Gil\Desktop\MIRI\CA\SpringSystemSimulation\SpringSystemSimulation\Src\App.cpp(957,18): warning C4018:  '<': signed/unsigned mismatch
+C:\Users\Albert Gil\Desktop\MIRI\CA\SpringSystemSimulation\SpringSystemSimulation\Src\App.cpp(960,9): warning C4018:  '<': signed/unsigned mismatch
+C:\Users\Albert Gil\Desktop\MIRI\CA\SpringSystemSimulation\SpringSystemSimulation\Src\App.cpp(960,25): warning C4018:  '<': signed/unsigned mismatch
+C:\Users\Albert Gil\Desktop\MIRI\CA\SpringSystemSimulation\SpringSystemSimulation\Src\App.cpp(967,9): warning C4018:  '<': signed/unsigned mismatch
+C:\Users\Albert Gil\Desktop\MIRI\CA\SpringSystemSimulation\SpringSystemSimulation\Src\App.cpp(973,10): warning C4018:  '<': signed/unsigned mismatch
+C:\Users\Albert Gil\Desktop\MIRI\CA\SpringSystemSimulation\SpringSystemSimulation\Src\App.cpp(983,29): warning C4018:  '<': signed/unsigned mismatch
+C:\Users\Albert Gil\Desktop\MIRI\CA\SpringSystemSimulation\SpringSystemSimulation\Src\App.cpp(985,30): warning C4018:  '<': signed/unsigned mismatch
+C:\Users\Albert Gil\Desktop\MIRI\CA\SpringSystemSimulation\SpringSystemSimulation\Src\App.cpp(1064,12): warning C4244:  '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Albert Gil\Desktop\MIRI\CA\SpringSystemSimulation\SpringSystemSimulation\Src\App.cpp(1065,12): warning C4244:  '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Albert Gil\Desktop\MIRI\CA\SpringSystemSimulation\SpringSystemSimulation\Src\App.cpp(1069,17): warning C4244:  'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Albert Gil\Desktop\MIRI\CA\SpringSystemSimulation\SpringSystemSimulation\Src\App.cpp(1070,17): warning C4244:  'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Albert Gil\Desktop\MIRI\CA\SpringSystemSimulation\SpringSystemSimulation\Src\App.cpp(1072,11): warning C4244:  '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Albert Gil\Desktop\MIRI\CA\SpringSystemSimulation\SpringSystemSimulation\Src\App.cpp(1073,11): warning C4244:  '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Albert Gil\Desktop\MIRI\CA\SpringSystemSimulation\SpringSystemSimulation\Src\App.cpp(1082,28): warning C4244:  'argument': conversion from 'double' to 'float', possible loss of data
+  SpringSystemSimulation.vcxproj -> C:\Users\Albert Gil\Desktop\MIRI\CA\SpringSystemSimulation\Debug\SpringSystemSimulation.exe
