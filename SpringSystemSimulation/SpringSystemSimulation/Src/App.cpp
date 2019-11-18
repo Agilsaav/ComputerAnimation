@@ -99,8 +99,8 @@ float tfinal = 6.0f; //final time of simulation
 
 //Mode
 int mode = 0;
-int solverUsed = 2;
-bool oneDim = true;
+int solverUsed = 1;
+bool oneDim = false;
 
 //---------------------------------
 
