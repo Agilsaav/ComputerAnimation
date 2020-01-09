@@ -1,6 +1,6 @@
 # Computer Animation
  
-The Particles Simulation project and the String System Simulation project have been developed using Visual Studio 2019 in Windows.
+The Particles Simulation project, the String System Simulation project and the Animation Project have been developed using Visual Studio 2019 in Windows.
 
 ## Particles Simulation
 
@@ -19,3 +19,12 @@ It also implements three initializations modes which can be chaned also in real 
 
 Integration of String System Simulations in one dimension and two dimensions in the Particle Simulation engine.
 
+## Animation Project
+
+This project uses the physics created in the projects done before and it adds some AI behavoir. It includes features as:
+#### A* Pathfinding
+#### Steering Behaviors (Dynamic Obstacle Avoidance)
+#### Pyhisics Simulation (Simulation Solvers, Collisions, Forces)
+
+The project include three maps that can be dynamically changed.
+The previous work on Paricles Simulation and String Systems can be also found in here with a better structure.
