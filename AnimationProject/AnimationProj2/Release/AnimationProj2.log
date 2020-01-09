@@ -1,0 +1,23 @@
+﻿  Scene.cpp
+C:\Users\Albert Gil\Desktop\MIRI\CA\AnimationProj2\AnimationProj2\src\Scene.cpp(76,20): warning C4018:  '<': signed/unsigned mismatch
+C:\Users\Albert Gil\Desktop\MIRI\CA\AnimationProj2\AnimationProj2\src\Scene.cpp(99,12): warning C4244:  'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Albert Gil\Desktop\MIRI\CA\AnimationProj2\AnimationProj2\src\Scene.cpp(103,28): warning C4244:  'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Albert Gil\Desktop\MIRI\CA\AnimationProj2\AnimationProj2\src\Scene.cpp(109,29): warning C4018:  '<': signed/unsigned mismatch
+C:\Users\Albert Gil\Desktop\MIRI\CA\AnimationProj2\AnimationProj2\src\Scene.cpp(182,20): warning C4018:  '<': signed/unsigned mismatch
+C:\Users\Albert Gil\Desktop\MIRI\CA\AnimationProj2\AnimationProj2\src\Scene.cpp(215,29): warning C4018:  '<': signed/unsigned mismatch
+C:\Users\Albert Gil\Desktop\MIRI\CA\AnimationProj2\AnimationProj2\src\Scene.cpp(362,20): warning C4018:  '<': signed/unsigned mismatch
+C:\Users\Albert Gil\Desktop\MIRI\CA\AnimationProj2\AnimationProj2\src\Scene.cpp(381,29): warning C4018:  '<': signed/unsigned mismatch
+C:\Users\Albert Gil\Desktop\MIRI\CA\AnimationProj2\AnimationProj2\src\Scene.cpp(420,29): warning C4018:  '<': signed/unsigned mismatch
+C:\Users\Albert Gil\Desktop\MIRI\CA\AnimationProj2\AnimationProj2\src\Scene.cpp(425,9): warning C4244:  'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\Albert Gil\Desktop\MIRI\CA\AnimationProj2\AnimationProj2\src\Scene.cpp(426,9): warning C4244:  'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\Albert Gil\Desktop\MIRI\CA\AnimationProj2\AnimationProj2\src\Scene.cpp(433,18): warning C4244:  '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Albert Gil\Desktop\MIRI\CA\AnimationProj2\AnimationProj2\src\Scene.cpp(434,18): warning C4244:  '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Albert Gil\Desktop\MIRI\CA\AnimationProj2\AnimationProj2\src\Scene.cpp(465,29): warning C4018:  '<': signed/unsigned mismatch
+LINK : warning LNK4098: defaultlib 'LIBCMT' conflicts with use of other libs; use /NODEFAULTLIB:library
+  Generating code
+  1 of 1246 functions (<0.1%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    7 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+glew32s.lib(glew.obj) : warning LNK4099: PDB 'vc120.pdb' was not found with 'glew32s.lib(glew.obj)' or at 'C:\Users\Albert Gil\Desktop\MIRI\CA\AnimationProj2\Release\vc120.pdb'; linking object as if no debug info
+  AnimationProj2.vcxproj -> C:\Users\Albert Gil\Desktop\MIRI\CA\AnimationProj2\Release\AnimationProj2.exe

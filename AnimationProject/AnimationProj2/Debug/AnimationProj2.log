@@ -1,0 +1,30 @@
+﻿  Application.cpp
+C:\Users\Albert Gil\Desktop\MIRI\CA\AnimationProj2\AnimationProj2\src\Application.cpp(95,10): warning C4244:  '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Albert Gil\Desktop\MIRI\CA\AnimationProj2\AnimationProj2\src\Application.cpp(96,10): warning C4244:  '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Albert Gil\Desktop\MIRI\CA\AnimationProj2\AnimationProj2\src\Application.cpp(103,12): warning C4244:  '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Albert Gil\Desktop\MIRI\CA\AnimationProj2\AnimationProj2\src\Application.cpp(104,12): warning C4244:  '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Albert Gil\Desktop\MIRI\CA\AnimationProj2\AnimationProj2\src\Application.cpp(111,11): warning C4244:  '=': conversion from 'int' to 'float', possible loss of data
+  main.cpp
+  model.cpp
+C:\Users\Albert Gil\Desktop\MIRI\CA\AnimationProj2\AnimationProj2\src\Application.cpp(112,11): warning C4244:  '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Albert Gil\Desktop\MIRI\CA\AnimationProj2\AnimationProj2\src\model.cpp(296,27): warning C4244:  '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Albert Gil\Desktop\MIRI\CA\AnimationProj2\AnimationProj2\src\model.cpp(622,30): warning C4018:  '<': signed/unsigned mismatch
+C:\Users\Albert Gil\Desktop\MIRI\CA\AnimationProj2\AnimationProj2\src\model.cpp(636,30): warning C4018:  '<': signed/unsigned mismatch
+C:\Users\Albert Gil\Desktop\MIRI\CA\AnimationProj2\AnimationProj2\src\model.cpp(662,3): error C2065:  'basicProgram': undeclared identifier
+C:\Users\Albert Gil\Desktop\MIRI\CA\AnimationProj2\AnimationProj2\src\model.cpp(663,3): error C2065:  'basicProgram': undeclared identifier
+C:\Users\Albert Gil\Desktop\MIRI\CA\AnimationProj2\AnimationProj2\src\model.cpp(664,3): error C2065:  'basicProgram': undeclared identifier
+C:\Users\Albert Gil\Desktop\MIRI\CA\AnimationProj2\AnimationProj2\src\model.cpp(665,3): error C2065:  'basicProgram': undeclared identifier
+C:\Users\Albert Gil\Desktop\MIRI\CA\AnimationProj2\AnimationProj2\src\model.cpp(666,8): error C2065:  'basicProgram': undeclared identifier
+C:\Users\Albert Gil\Desktop\MIRI\CA\AnimationProj2\AnimationProj2\src\model.cpp(669,18): error C2065:  'basicProgram': undeclared identifier
+C:\Users\Albert Gil\Desktop\MIRI\CA\AnimationProj2\AnimationProj2\src\model.cpp(671,3): error C2065:  'basicProgram': undeclared identifier
+  Scene.cpp
+C:\Users\Albert Gil\Desktop\MIRI\CA\AnimationProj2\AnimationProj2\src\model.cpp(784,28): error C2065:  'basicProgram': undeclared identifier
+C:\Users\Albert Gil\Desktop\MIRI\CA\AnimationProj2\AnimationProj2\src\Scene.cpp(76,12): warning C4244:  'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Albert Gil\Desktop\MIRI\CA\AnimationProj2\AnimationProj2\src\Scene.cpp(80,28): warning C4244:  'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Albert Gil\Desktop\MIRI\CA\AnimationProj2\AnimationProj2\src\Scene.cpp(87,29): warning C4018:  '<': signed/unsigned mismatch
+C:\Users\Albert Gil\Desktop\MIRI\CA\AnimationProj2\AnimationProj2\src\Scene.cpp(122,32): warning C4305:  'argument': truncation from 'double' to 'float'
+C:\Users\Albert Gil\Desktop\MIRI\CA\AnimationProj2\AnimationProj2\src\Scene.cpp(157,20): warning C4018:  '<': signed/unsigned mismatch
+C:\Users\Albert Gil\Desktop\MIRI\CA\AnimationProj2\AnimationProj2\src\Scene.cpp(180,29): warning C4018:  '<': signed/unsigned mismatch
+C:\Users\Albert Gil\Desktop\MIRI\CA\AnimationProj2\AnimationProj2\src\Scene.cpp(290,29): warning C4018:  '<': signed/unsigned mismatch
+  Generating Code...
+C:\Users\Albert Gil\Desktop\MIRI\CA\AnimationProj2\AnimationProj2\src\Scene.cpp(318,29): warning C4018:  '<': signed/unsigned mismatch
