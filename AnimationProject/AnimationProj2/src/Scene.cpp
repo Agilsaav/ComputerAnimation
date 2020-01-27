@@ -35,7 +35,7 @@ void Scene::init()
 	initShaders("Res/shaders/basic.vert", "Res/shaders/basic.frag");
 
 	//Particles:
-	numberOfParticles = 10;
+	numberOfParticles = 20;
 	dt = 0.01f;
 	solverUsed = 1;
 	colRadius = 0.4f * 0.50f;
@@ -158,7 +158,7 @@ void Scene::init()
 	}
 
 	// load 'cally' model
-	std::cout << "Loading 'cally' model ..." << std::endl;
+	//std::cout << "Loading 'cally' model ..." << std::endl;
 
 	//pModel = new Model();
 	//m_strCal3D_Datapath = "Src/vendor";
@@ -620,8 +620,8 @@ void Scene::computeSimulation()
 	{		
 		FollowPath(i, 2.0f);	
 
-		physics.ComputeObsAvoidance(particles, particles[i], rectangles2, i, colRadius, sqrt(0.51f), 1.0f, 1.0f);
-		//physics.ComputeObsAvoidanceUnaligned(particles, particles[i], rectangles2, i, colRadius, sqrt(0.51f), 1.0f, 1.0f);
+		//physics.ComputeObsAvoidance(particles, particles[i], rectangles2, i, colRadius, sqrt(0.51f), 1.0f, 1.0f);
+		physics.ComputeObsAvoidanceUnaligned(particles, particles[i], rectangles2, i, colRadius, sqrt(0.51f), 1.0f, 1.0f);
 
 		switch (solverUsed)
 		{

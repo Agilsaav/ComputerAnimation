@@ -99,7 +99,10 @@ void Physics::GetSpehereCollision(Particle& p, Sphere& sphere, float& frictionCo
 		glm::vec3 newPosition = p.getCurrentPosition() - (1.0f + p.getBouncing()) * (glm::dot(plane.normal, p.getCurrentPosition()) + plane.dconst) * plane.normal;
 		glm::vec3 newVelocity = p.getVelocity() - (1.0f + p.getBouncing()) * glm::dot(plane.normal, p.getVelocity()) * plane.normal;
 		p.setPosition(newPosition);
-		p.setVelocity(newVelocity);
+
+		glm::vec3 vel = 2.0f * 4.0f * glm::normalize(newVelocity);
+		p.setVelocity(vel);
+		//p.setVelocity(newVelocity);
 
 		if (solverUsed == 2)
 		{
@@ -202,7 +205,9 @@ void Physics::GetRectangleCircleColision(Particle& p, GRectangle& rectangle, con
 		//glm::vec3 newPosition = p.getCurrentPosition() + dist * (glm::normalize(p.getVelocity()));
 		//p.setPosition(newPosition);
 		glm::vec3 newVelocity = p.getVelocity() - (1.0f + p.getBouncing()) * glm::dot(norm, p.getVelocity()) * norm;
-		p.setVelocity(newVelocity);
+		glm::vec3 vel = 2.0f * 3.0f * glm::normalize(newVelocity);
+		p.setVelocity(vel);
+		//p.setVelocity(newVelocity);
 		glm::vec3 newPosition = p.getCurrentPosition() + dist * (newVelocity * 0.01f);
 		p.setPosition(newPosition);
 		

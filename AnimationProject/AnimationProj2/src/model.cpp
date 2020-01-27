@@ -729,20 +729,21 @@ void Model::renderMesh(bool bWireframe, bool bLight)
 			modelMesh[count].changeNormal(normals[i],i);
 		}
 
+		
+		static CalIndex meshFaces[50000][3];
+		int faceCount;
+		faceCount = pCalRenderer->getFaces(&meshFaces[0][0]);
+
+		for (unsigned int i = 0; i < faceCount; i++)
+		{
+			//faces.push_back(meshFaces[3 * i][0]);
+			//faces.push_back(meshFaces[3 * i][1]);
+			//faces.push_back(meshFaces[3 * i][2]);
+
+			modelMesh[count].addTriangle(meshFaces[3 * i][0], meshFaces[3 * i][1], meshFaces[3 * i][2]);
+		}
+
 		count += 1;
-		//static CalIndex meshFaces[50000][3];
-		//int faceCount;
-		//faceCount = pCalRenderer->getFaces(&meshFaces[0][0]);
-
-		//for (unsigned int i = 0; i < faceCount; i++)
-		//{
-		//	faces.push_back(meshFaces[3 * i][0]);
-		//	faces.push_back(meshFaces[3 * i][1]);
-		//	faces.push_back(meshFaces[3 * i][2]);
-
-		//	modelMesh->addTriangle(meshFaces[3 * i][0], meshFaces[3 * i][1], meshFaces[3 * i][2]);
-		//}
-
 
     //    // get the transformed vertices of the submesh
     //    static float meshVertices[30000][3];
