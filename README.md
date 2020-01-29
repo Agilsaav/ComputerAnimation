@@ -19,6 +19,12 @@ It also implements three initializations modes which can be chaned also in real 
 
 Integration of String System Simulations in one dimension and two dimensions in the Particle Simulation engine.
 
+## Fluid Simulation
+
+Simulation of a fluid using a SPH(Smoothed-particle hydrodynamics). 
+
+The code base is the same as the Animation project, so you will find similar classes and structure.
+
 ## Animation Project
 
 This project uses the physics created in the projects done before and it adds some AI behavoir. It includes features as:
